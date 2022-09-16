@@ -161,7 +161,7 @@ img {
 }
 
 /* Кнопки фільтри портфоліо */
-.btn__list {
+.btn {
   display: flex;
   justify-content: center;
   margin-bottom: 50px;
@@ -329,7 +329,7 @@ img {
   margin-right: auto;
 }
 
-.features__list {
+.features {
   display: flex;
 }
 
@@ -651,7 +651,7 @@ img {
   color: rgba(255, 255, 255, 0.6);
 }
 
-.portfolio__list {
+.portfolio {
   display: flex;
   flex-wrap: wrap;
   margin: -15px;
